@@ -1,2 +1,2 @@
-# Nakahara_GeoTopoPhysics
-Hand-typed notes as I read the second edition of Nakahar's "Geometry, Topology, and Physics"
+# Nakahara: Geometry, Topology, and Physics
+These are my incomplete hand-typed notes as I read through the second edition of Nakahara's Geometry, Topology, and Physics. I am uploading them here in case they may be of service to other students reading this text. In general, Nakahara explains things quite well. However, there are certain calculations that I add more detail to. Please email me at frank.sam@northeastern.edu if you have any questions or notice anything wrong with these notes. Additionally, I will be doing certain exercises in the text and will update the notes as I complete them.
